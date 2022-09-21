@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: kth-tw.github.io
+Token: bb2d5b672276cb460cc0ef63949188661135e1ea41fdb5f908d32e82ab40846e
